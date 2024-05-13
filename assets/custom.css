@@ -19,7 +19,7 @@ body {
     display: flex;
     /* justify-content: space-around; */
     align-items: stretch;
-    background-image: url(http://localhost/hypegroup/img/images.jpg);
+    background-image: URL(../img/images.jpg);
     background-repeat: no-repeat;
     padding: 20px;
     background-size: cover;
